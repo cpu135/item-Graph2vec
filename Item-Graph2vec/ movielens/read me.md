@@ -1,0 +1,1 @@
+The 'result.py' file calculates the accuracy of the Movielens dataset.
